@@ -1,2 +1,2 @@
-# cone-2-youtube
-youtube-homepae-clone
+# clone-2-youtube
+youtube-homepage-clone
